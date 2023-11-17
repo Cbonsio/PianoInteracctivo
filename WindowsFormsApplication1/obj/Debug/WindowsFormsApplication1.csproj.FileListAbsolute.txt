@@ -1,0 +1,29 @@
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe.config
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.pdb
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Piano Interactivo.exe
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Piano Interactivo.pdb
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe.config
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Piano Interactivo.pdb
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Piano Interactivo.exe
+C:\Users\Cbonsio\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Piano Interactivo.pdb
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe.config
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\bin\Debug\Piano Interactivo.exe
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\bin\Debug\Piano Interactivo.pdb
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\Piano Interactivo.exe
+C:\Users\Cbonsio\Desktop\PianoInteractivo\WindowsFormsApplication1\obj\Debug\Piano Interactivo.pdb
